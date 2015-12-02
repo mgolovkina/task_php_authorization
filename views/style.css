@@ -1,0 +1,21 @@
+.elem {
+    margin-bottom: 15px;
+}
+
+#container {
+    width: 60%;
+    margin: 0 auto;
+}
+
+#error {
+    color: red;
+}
+
+.title {
+    width: 250px;
+    text-align: center;
+}
+
+.new {
+    width: 250px;
+}
